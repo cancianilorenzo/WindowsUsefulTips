@@ -1,0 +1,3 @@
+- WSL
+- oh_my_zsh on Windows 10
+- git on windows
